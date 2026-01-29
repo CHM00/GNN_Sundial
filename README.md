@@ -1,4 +1,4 @@
-# GNN_Sundial
+# GNN_Sundial （申请专利中）
 
 # 模型架构
 ![模型架构](figure/GNN_Sundial.png)
